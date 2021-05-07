@@ -1,0 +1,16 @@
+@import url("https://mind-ui-library.netlify.app/mind-ui.css");
+
+:root {
+  --background-color: #fff;
+  --text-color: black;
+  --secondary-color: #eee;
+}
+
+.grid--row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  margin: 1rem;
+  align-items: center;
+  justify-content: center;
+}

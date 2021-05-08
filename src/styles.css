@@ -8,9 +8,9 @@
 
 .grid--row {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 1rem;
-  margin: 1rem;
+  grid-template-columns: repeat(5, 1fr);
+  margin: 2rem 0;
+  margin-bottom: 3rem;
   align-items: center;
   justify-content: center;
 }

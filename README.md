@@ -1,3 +1,8 @@
-### Appointent Helper
+### Cowin-Vaccine-Tracker
 
-This app is to help in vaccination appointments on the cowin app.
+A web app that helps you track covid vaccine slots availability across Mumbai.
+
+### Technology Used
+- ReactJS
+- Cowin OPEN API's
+- Vercel Deployment
